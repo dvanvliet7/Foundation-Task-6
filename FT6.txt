@@ -1,0 +1,16 @@
+Task:
+
+create a php file where person class will define all functions. Indicated in person_class.php
+
+use js to show database on html file
+
+
+Goal:
+
+To display a sql table called "person".
+Being able to edit/add/delete/delete all/generate 10 random people in the database
+Everything should be controled by the user in the html document.
+
+
+
+
